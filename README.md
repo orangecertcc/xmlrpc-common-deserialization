@@ -198,18 +198,18 @@ Please note tshark output has been redacted not to display useless packets.
 
 ## Timeline
 
-2019-11-19: Apache informed via email
-2019-11-19: Apache XML-RPC is no longer actively maintained
-2019-11-21: Red Hat informed via email
-2019-11-22: Vulnerability reaffected to Apache project
-2020-01-06: Distro OSS security informed via email
-2020-01-16: Vulnerability published to OSS security mailing list
-2020-01-24: Vulnerability details and proof of concept published on github.com
+* 2019-11-19: Apache informed via email
+* 2019-11-19: Apache XML-RPC is no longer actively maintained
+* 2019-11-21: Red Hat informed via email
+* 2019-11-22: Vulnerability reaffected to Apache project
+* 2020-01-06: Distro OSS security informed via email
+* 2020-01-16: Vulnerability published to OSS security mailing list
+* 2020-01-24: Vulnerability details and proof of concept published on github.com
 
 ## Credits
 
-Guillaume TEISSIER (Orange)
-Orange group
+* Guillaume TEISSIER (Orange)
+* Orange group
 
 ## Affected versions
 
